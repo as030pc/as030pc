@@ -1,5 +1,5 @@
 # Portafolio
-- 👋 Hi, I’m Andres Pama Castañeda. Biochemical Engineering
+- 👋 Hi, I’m Andres Pama Castañeda. Front-End Developer and Biochemical Engineering.
 - 👀 I’m interested in topics related to web development and the application of IT in biotechnology
 - 🌱 I’m currently learning Front-End web development
 - 💞️ I’m looking to collaborate on projects related to web development and topics related to Computational Biology
